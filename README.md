@@ -1,2 +1,1 @@
-# hello-world
-lnitialize this repository with a README
+my name is takuma
